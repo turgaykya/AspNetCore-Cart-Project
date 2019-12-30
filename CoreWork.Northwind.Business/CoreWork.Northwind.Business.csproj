@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreWork.Northwind.Data\CoreWork.Northwind.Data.csproj" />
+    <ProjectReference Include="..\CoreWork.Northwind.Entities\CoreWork.Northwind.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

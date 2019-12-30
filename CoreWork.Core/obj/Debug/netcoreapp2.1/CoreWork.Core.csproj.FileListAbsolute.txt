@@ -1,0 +1,12 @@
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\bin\Debug\netcoreapp2.1\CoreWork.Core.deps.json
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\bin\Debug\netcoreapp2.1\CoreWork.Core.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\bin\Debug\netcoreapp2.1\CoreWork.Core.pdb
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\obj\Debug\netcoreapp2.1\CoreWork.Core.csprojAssemblyReference.cache
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\obj\Debug\netcoreapp2.1\CoreWork.Core.csproj.CoreCompileInputs.cache
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\obj\Debug\netcoreapp2.1\CoreWork.Core.AssemblyInfoInputs.cache
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\obj\Debug\netcoreapp2.1\CoreWork.Core.AssemblyInfo.cs
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\obj\Debug\netcoreapp2.1\CoreWork.Core.csproj.CopyComplete
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\obj\Debug\netcoreapp2.1\CoreWork.Core.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Core\obj\Debug\netcoreapp2.1\CoreWork.Core.pdb

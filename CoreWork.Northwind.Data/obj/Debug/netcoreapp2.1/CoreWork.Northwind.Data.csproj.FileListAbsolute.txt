@@ -1,0 +1,14 @@
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Data.deps.json
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Data.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Data.pdb
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\bin\Debug\netcoreapp2.1\CoreWork.Core.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Entities.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\bin\Debug\netcoreapp2.1\CoreWork.Core.pdb
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Entities.pdb
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Data.csprojAssemblyReference.cache
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Data.csproj.CoreCompileInputs.cache
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Data.AssemblyInfoInputs.cache
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Data.AssemblyInfo.cs
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Data.csproj.CopyComplete
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Data.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Data\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Data.pdb

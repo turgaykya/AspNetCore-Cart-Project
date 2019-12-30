@@ -1,0 +1,16 @@
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Business.deps.json
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Business.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Business.pdb
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\bin\Debug\netcoreapp2.1\CoreWork.Core.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Data.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Entities.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Data.pdb
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\bin\Debug\netcoreapp2.1\CoreWork.Northwind.Entities.pdb
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\bin\Debug\netcoreapp2.1\CoreWork.Core.pdb
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Business.AssemblyInfo.cs
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Business.csproj.CopyComplete
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Business.dll
+C:\Users\Turgay\source\repos\CoreWork\CoreWork.Northwind.Business\obj\Debug\netcoreapp2.1\CoreWork.Northwind.Business.pdb

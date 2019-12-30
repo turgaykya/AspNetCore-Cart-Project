@@ -1,0 +1,28 @@
+﻿@model CoreWork.Northwind.MvcWebUI.Models.ProductListViewModel
+
+@{
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+<table class="table table-responsive">
+    <tr>
+        <td>Product Name</td>
+        <td>Unit Price</td>
+        <td>Units In Stock</td>
+        <td></td>
+    </tr>
+    @foreach (var item in Model.Products)
+    {
+        <tr>
+            <td>@item.ProductName</td>
+            <td>@item.UnitPrice ₺</td>
+            <td>@item.UnitsInStock</td>
+            <td><a class="btn btn-xs btn-success" asp-controller="Cart" asp-action="AddToCart" asp-route-productId="@item.ProductId">Add To Cart</a></td>
+        </tr>
+    }
+</table>
+
+<product-list-pager current-category="@Model.CurrentCategory"
+                    current-page="@Model.CurrentPage"
+                    page-count="@Model.PageCount"
+                    page-size="@Model.PageSize"></product-list-pager>
